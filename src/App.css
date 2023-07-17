@@ -1,0 +1,55 @@
+.heading{
+  text-align: center;
+  font-size: 50px;
+}
+
+.cardContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-item: center;
+  width: 100px;
+  margin: 10px;
+}
+
+.emoji{
+  font-size: 80px;
+  text-align: center;
+}
+
+.cardDetail{
+  position: absolute;
+  padding: 2px;
+  background: white;
+  color: black;
+}
+
+.button{
+  font-size: 30px;
+  margin: 8px;
+  padding: 5px;
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nbutton {
+  width: 50px;
+}
+
+.filter{
+  font-size: 25px;
+}
+
+.dropdown{
+  margin-left: 10px;
+  font-size: 20px;
+}
