@@ -9,3 +9,12 @@
 
 I can upgragade this project, but dont have time right now. It was good task, enjoyed it.
 
+# Checkout the website live in below link :
+https://emojihtmlcode-bysrk.netlify.app/
+
+#Screenshots
+
+
+![InitialUI](https://github.com/sourabhsrk/DocusignTask/assets/47951316/2b70a7bd-4068-42a2-9526-632feca79324)
+![pagination](https://github.com/sourabhsrk/DocusignTask/assets/47951316/adee2fb6-0da9-432f-ac5c-76a8ef7fb09a)
+![card details](https://github.com/sourabhsrk/DocusignTask/assets/47951316/770fbc97-65bf-48c5-ad3c-5ea94658cf54)
