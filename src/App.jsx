@@ -47,6 +47,7 @@ function App() {
   
   const handleCategoryChange = (e) => {
     setCategory(e.target.value);
+    setCurrentPage(1);
   }
 
   useEffect(()=>{
